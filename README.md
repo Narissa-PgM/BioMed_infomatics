@@ -7,7 +7,7 @@ Two companion tools for studying biomedical informatics and biological sciences.
 - **`playbook'** — practical playbook with workflows and reference material
 
 ## Live site
-https://narissa-pgm.github.io/biomed-learning-path/index.html
+https://narissa-pgm.github.io/BioMed-Informatics/index.html
 
 ## Run locally
 Open `index.html` in any modern browser. No build step, no dependencies.
